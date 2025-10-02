@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Bulk Video Generator",
+  "description": "An application to submit and manage a batch of video generation jobs using Google's Gemini AI. Users can specify prompts, models, aspect ratios, and input types (text or image) for each job. The system processes the queue with controlled concurrency and rate limiting, providing status updates, video previews, and download options for each job.",
+  "requestFramePermissions": []
+}
